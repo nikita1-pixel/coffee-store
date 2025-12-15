@@ -20,6 +20,7 @@ import Image from 'next/image';
                   <ul className="space-y-2 text-sm text-gray-">
                     <li><a href="/privacy-policy" className="hover:underline">Privacy Policy</a></li>
                     <li><a href="/terms" className="hover:underline">Terms of Use</a></li>
+                    <li><a href="/cookies" className="hover:underline">Cookies</a></li>
                   </ul>
                 </div>
                 <div>
@@ -35,26 +36,37 @@ import Image from 'next/image';
                   <ul className="space-y-2 text-sm text-gray-">
                     <li><a href="/about" className="hover:underline">Our Story</a></li>
                     <li><a href="/careers" className="hover:underline">Careers</a></li>
+                    <li><a href="/terms" className="hover:underline">Find a Location</a></li>
                   </ul>
                 </div>
                 <div>
                   <h3 className="font-bold text-lg mb-4">Information</h3>
                   <ul className="space-y-2 text-sm text-gray-">
-                    <li><a href="/contact" className="hover:underline">Contact Us</a></li>
-                    <li><a href="/faq" className="hover:underline">FAQ</a></li>
+                    <li><a href="/plans" className="hover:underline">Plans & Pricing</a></li>
+                    <li><a href="/products" className="hover:underline">Sell your Products</a></li>
+                    <li><a href="/jobs" className="hover:underline">Jobs</a></li>
                   </ul>
                 </div>
               </div>
    
               {/* Section 3 */}
-              <div>
-                <h3 className="font-bold text-lg mb-4">Follow Us</h3>
-                <div className="flex space-x-4">
+               <div>
+                 <h3 className="font-bold text-lg mb-4">Follow Us</h3>
+                 <div className="flex space-x-4">
                    <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
-                    <Image src="/images/instagram.png" alt="Instagram" width={24} height={24} />
+                     <Image src="/images/instaa.png" alt="Instagram" width={24} height={24} />
+                   </a>
+                  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+                    <Image src="/images/linkedin.png" alt="linkedin" width={24} height={24} /> 
                   </a>
-                </div>  
-              </div>
+                  <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">
+                    <Image src="/images/YouTube,.png" alt="youtube" width={24} height={24} /> 
+                  </a>
+                  <a href="https://telegram.com" target="_blank" rel="noopener noreferrer">
+                    <Image src="/images/Telegram.png" alt="telegram" width={24} height={24} /> 
+                  </a>
+                 </div>
+                </div>
    
             </div>
    

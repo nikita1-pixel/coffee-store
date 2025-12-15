@@ -2,8 +2,8 @@
      
      const Navbar = () => {
        return (
-         <nav className="bg-white shadow-md">
-        
+         
+        <nav className="bg-white shadow-md">
            <div className="container mx-auto px-6 py-4 flex items-center flex-nowrap">
     
            <div className="container mx-auto px-6 py-4 flex items-center flex-nowrap">

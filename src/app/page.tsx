@@ -11,7 +11,9 @@ const CoffeeStorePage = () => {
       <p className="mt-4 text-lg text-white">
         Discover our selection of premium coffees from around the world.
       </p>
+      
     </main>
+    
   );
 }
 
