@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/OneDrive/Desktop/PROJECTS/coffee-store/src/components/AuthProvider.tsx"],"sourcesContent":["\"use client\"\r\n\r\nimport { SessionProvider } from \"next-auth/react\";\r\nimport React from \"react\";\r\n\r\ninterface props {\r\n    children: React.ReactNode;\r\n}\r\n\r\nconst AuthProvider = ({ children }: props) => {\r\n    return <SessionProvider>{children}</SessionProvider>;\r\n}\r\nexport default AuthProvider;"],"names":[],"mappings":";;;;;AAEA;AAFA;;;AASA,MAAM,eAAe,CAAC,EAAE,QAAQ,EAAS;IACrC,qBAAO,wPAAC,+NAAe;kBAAE;;;;;;AAC7B;uCACe"}}]
+}

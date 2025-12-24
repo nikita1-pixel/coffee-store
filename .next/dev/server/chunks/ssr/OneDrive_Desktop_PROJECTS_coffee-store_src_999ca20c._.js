@@ -12,11 +12,11 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$PROJE
 ;
 const MiniMenu = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$PROJECTS$2f$coffee$2d$store$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "flex space-x-6  p-6 justify-center bg-white  backdrop-blur-sm",
+        className: "flex space-x-6  p-6 justify-center items-center bg-white  backdrop-blur-sm",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$PROJECTS$2f$coffee$2d$store$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                 href: "/hot-coffee",
-                className: "flex flex-col items-center px-4 py-3  text-amber-900 text-lg font-medium rounded-md shadow-md hover:bg-amber-600 transition-all duration-200",
+                className: "flex flex-col items-center justify-center w-32 h-32 px-4 py-3  text-amber-900 text-lg font-medium rounded-md shadow-md hover:bg-amber-600 transition-all duration-20",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$PROJECTS$2f$coffee$2d$store$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$PROJECTS$2f$coffee$2d$store$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                         src: "/images/hotcoffee.png",
@@ -26,19 +26,19 @@ const MiniMenu = ()=>{
                         className: "mb-2"
                     }, void 0, false, {
                         fileName: "[project]/OneDrive/Desktop/PROJECTS/coffee-store/src/components/MiniMenu.tsx",
-                        lineNumber: 9,
-                        columnNumber: 17
+                        lineNumber: 8,
+                        columnNumber: 12
                     }, ("TURBOPACK compile-time value", void 0)),
                     "Hot Coffee"
                 ]
             }, void 0, true, {
                 fileName: "[project]/OneDrive/Desktop/PROJECTS/coffee-store/src/components/MiniMenu.tsx",
-                lineNumber: 8,
-                columnNumber: 13
+                lineNumber: 7,
+                columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$PROJECTS$2f$coffee$2d$store$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                 href: "/cold-coffee",
-                className: "flex flex-col items-center px-4 py-3  text-amber-900 text-lg font-medium rounded-md shadow-md hover:bg-amber-600 transition-all duration-200",
+                className: "flex flex-col items-center w-32 h-32  px-4 py-3  text-amber-900 text-lg font-medium rounded-md shadow-md hover:bg-amber-600 transition-all duration-200",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$PROJECTS$2f$coffee$2d$store$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$PROJECTS$2f$coffee$2d$store$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                         src: "/images/coldcoffee.png",
@@ -48,19 +48,19 @@ const MiniMenu = ()=>{
                         className: "mb-2"
                     }, void 0, false, {
                         fileName: "[project]/OneDrive/Desktop/PROJECTS/coffee-store/src/components/MiniMenu.tsx",
-                        lineNumber: 15,
+                        lineNumber: 14,
                         columnNumber: 17
                     }, ("TURBOPACK compile-time value", void 0)),
                     "Cold Coffee"
                 ]
             }, void 0, true, {
                 fileName: "[project]/OneDrive/Desktop/PROJECTS/coffee-store/src/components/MiniMenu.tsx",
-                lineNumber: 14,
+                lineNumber: 13,
                 columnNumber: 11
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$PROJECTS$2f$coffee$2d$store$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                 href: "/cup-coffee",
-                className: "flex flex-col items-center px-4 py-3  text-amber-900 text-lg font-medium rounded-md shadow-md hover:bg-amber-600 transition-all duration-200",
+                className: "flex flex-col items-center w-32 h-32  px-4 py-3  text-amber-900 text-lg font-medium rounded-md shadow-md hover:bg-amber-600 transition-all duration-200",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$PROJECTS$2f$coffee$2d$store$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$PROJECTS$2f$coffee$2d$store$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                         src: "/images/cup coffee.png",
@@ -70,19 +70,19 @@ const MiniMenu = ()=>{
                         className: "mb-2"
                     }, void 0, false, {
                         fileName: "[project]/OneDrive/Desktop/PROJECTS/coffee-store/src/components/MiniMenu.tsx",
-                        lineNumber: 21,
+                        lineNumber: 20,
                         columnNumber: 17
                     }, ("TURBOPACK compile-time value", void 0)),
                     "Cup Coffee"
                 ]
             }, void 0, true, {
                 fileName: "[project]/OneDrive/Desktop/PROJECTS/coffee-store/src/components/MiniMenu.tsx",
-                lineNumber: 20,
+                lineNumber: 19,
                 columnNumber: 11
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$PROJECTS$2f$coffee$2d$store$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                 href: "/dessert",
-                className: "flex flex-col items-center px-4 py-3  text-amber-900 text-lg font-medium rounded-md shadow-md hover:bg-amber-600 transition-all duration-200",
+                className: "flex flex-col items-center  w-32 h-32 px-4 py-3  text-amber-900 text-lg font-medium rounded-md shadow-md hover:bg-amber-600 transition-all duration-200",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$PROJECTS$2f$coffee$2d$store$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$PROJECTS$2f$coffee$2d$store$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                         src: "/images/dessert.png",
@@ -92,7 +92,7 @@ const MiniMenu = ()=>{
                         className: "mb-2"
                     }, void 0, false, {
                         fileName: "[project]/OneDrive/Desktop/PROJECTS/coffee-store/src/components/MiniMenu.tsx",
-                        lineNumber: 27,
+                        lineNumber: 26,
                         columnNumber: 17
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$PROJECTS$2f$coffee$2d$store$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -100,13 +100,13 @@ const MiniMenu = ()=>{
                         children: "Dessert"
                     }, void 0, false, {
                         fileName: "[project]/OneDrive/Desktop/PROJECTS/coffee-store/src/components/MiniMenu.tsx",
-                        lineNumber: 28,
+                        lineNumber: 27,
                         columnNumber: 21
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/OneDrive/Desktop/PROJECTS/coffee-store/src/components/MiniMenu.tsx",
-                lineNumber: 26,
+                lineNumber: 25,
                 columnNumber: 11
             }, ("TURBOPACK compile-time value", void 0))
         ]

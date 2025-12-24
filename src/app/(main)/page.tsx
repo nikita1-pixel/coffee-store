@@ -2,7 +2,7 @@
 import React from "react";  
 const CoffeeStorePage = () => {
   return (
-    <div className="flex min-h-screen flex-col items-center bg-[url('/images/espresso-bg.png')] bg-cover p-8">
+    <div className="flex min-h-screen flex-col items-center justify-center bg-[url('/images/espresso-bg.png')] bg-cover p-8">
       
       <h1 className="text-4xl font-bold text-white mt-30 ">
        Welcome <br />
