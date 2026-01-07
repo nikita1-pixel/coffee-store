@@ -15,3 +15,26 @@ Dynamic UI Architecture: A smart Navbar that switches UI elements based on real-
 Enterprise Security: Middleware-level protection that intercepts unauthorized requests and redirects to a custom 403 Access Denied portal.
 
 Responsive Dark Interface: A high-contrast, professional UI designed for long-duration administrative tasks.
+
+Deployment (Render.com)
+This project is optimized for deployment on Render.
+
+⚙️ Recommended Configuration:
+Build Command: npm install; npm run build
+
+Start Command: npm run start
+
+Required Env Variables:
+
+NEXTAUTH_SECRET: (Random 32-character string)
+
+NEXTAUTH_URL: Your production domain
+
+ADMIN_EMAILS: Comma-separated list of authorized administrator emails.
+
+Access Control Hierarchy
+Unauthorized: Redirected to /login.
+
+Viewer Role: Can navigate the system and view user lists, but "Add User" and "Delete" actions are hidden and server-protected.
+
+Super Admin: Full system authority, including the ability to modify the user registry and system settings.
