@@ -1,6 +1,5 @@
-# React + Vite
-
 AdminPanel | Enterprise User Management System
+
 A robust, full-stack administrative solution built with Next.js 15+ and NextAuth.js. This system provides a secure interface for managing organizational identities, featuring strict Role-Based Access Control (RBAC) and a modern dark-terminal aesthetic.
 
 🌟 Project Overview
